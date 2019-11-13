@@ -92,7 +92,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Responsive Search Bar</h2>
+  <h2>Responsive Search Bar111TESTING</h2>
   <p>Navigation bar with a search box and a submit button inside of it.</p>
   <p>Resize the browser window to see the responsive effect.</p>
 </div>
