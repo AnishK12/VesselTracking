@@ -1,0 +1,17 @@
+[
+   {
+      "CargoType": "Break Bulk"
+   },
+   {
+      "CargoType": "Neo Bulk"
+   },
+   {
+      "CargoType": "Containerized"
+   },
+   {
+      "CargoType": "Liquid bulk"
+   },
+   {
+      "CargoType": "Dry Bulk"
+   }
+]
