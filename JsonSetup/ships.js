@@ -40,14 +40,9 @@ for (var ship in ships.features){
   ships.features[ship].properties.shipType = shipTypes[getRandomShipType()];
 }
 
-console.log(ships.features[23]);
-console.log(ships.features[99]);
-console.log(ships.features[123]);
-console.log(ships.features[1192]);
-
 var jsonData = JSON.stringify(ships);
 var fs = require('fs');
-fs.writeFile("test.json", jsonData, function(err) {
+fs.writeFile("database.json", jsonData, function(err) {
   if (err) {
       console.log(err);
   }
