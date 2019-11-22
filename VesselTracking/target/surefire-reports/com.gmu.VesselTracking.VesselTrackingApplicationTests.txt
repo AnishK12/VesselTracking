@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.gmu.VesselTracking.VesselTrackingApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.511 s - in com.gmu.VesselTracking.VesselTrackingApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.879 s - in com.gmu.VesselTracking.VesselTrackingApplicationTests
