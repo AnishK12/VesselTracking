@@ -1,0 +1,29 @@
+[
+   {
+      "ShipType": "Container Vessel"
+   },
+   {
+      "ShipType": "Bulk Vessel"
+   },
+   {
+      "ShipType": "Break Bulk Vessel"
+   },
+   {
+      "ShipType": "Reefer Vessel"
+   },
+   {
+      "ShipType": "Barge Vessel"
+   },
+   {
+      "ShipType": "Tanker Vessel"
+   },
+   {
+      "ShipType": "Multi-Purpose Vessel"
+   },
+   {
+      "ShipType": "Cruise Vessel"
+   },
+   {
+      "ShipType": "Ro-Ro Vessel"
+   }
+]

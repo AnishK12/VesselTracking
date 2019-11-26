@@ -1,0 +1,20 @@
+[
+   {
+      "cargotype": "Break Bulk"
+   },
+   {
+      "cargotype": "Neo Bulk"
+   },
+   {
+      "cargotype": "Containerized"
+   },
+   {
+      "cargotype": "Liquid bulk"
+   },
+   {
+      "cargotype": "People"
+   },
+   {
+      "cargotype": "Dry Bulk"
+   }
+]
